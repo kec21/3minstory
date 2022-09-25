@@ -1,0 +1,22 @@
+:: StoryData
+{
+    "ifid": "BA6898E5-1BE0-49F6-A752-E8A58AEB9E20",
+    "format": "SugarCube",
+    "format-version": "2.36.1"
+}
+:: StoryTitle
+Out of the Blue
+
+:: Start
+Life is what happens when you're busy making plans. 
+
+[[open]] at the email in your inbox
+[[delete]] the email in your inbox
+
+:: open 
+Congrats! You open the email and find you have been accepted to FSU!
+
+:: delete
+You are too afriad to deal with reality. You delete the email.
+
+
